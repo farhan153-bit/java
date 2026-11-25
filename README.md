@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/farhan153-bit/java/tree/master/1603-design-parking-system) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/farhan153-bit/java/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/farhan153-bit/java/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
