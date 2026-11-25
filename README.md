@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/farhan153-bit/java/tree/master/0704-binary-search) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/farhan153-bit/java/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/farhan153-bit/java/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/farhan153-bit/java/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
