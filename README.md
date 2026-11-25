@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/farhan153-bit/java/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/farhan153-bit/java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farhan153-bit/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/farhan153-bit/java/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/farhan153-bit/java/tree/master/0912-sort-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/farhan153-bit/java/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/farhan153-bit/java/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/farhan153-bit/java/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/farhan153-bit/java/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -89,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/farhan153-bit/java/tree/master/0933-number-of-recent-calls) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/farhan153-bit/java/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/farhan153-bit/java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
